@@ -1,6 +1,6 @@
 n = int (input())
 count = 0
-for i in range(1, n):
+for _  in range(1, n):
     petya, vasya, tonya  = map(int, input().split())
 
     if petya + vasya + tonya >= 2:
