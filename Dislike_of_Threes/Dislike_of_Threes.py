@@ -9,4 +9,4 @@ while len(liked_numbers) < 1000:
 t = int(input())
 for _ in range(t):
     k = int(input())
-    print(liked_numbers[k-1])  # k-তম সংখ্যা প্রিন্ট (0-based ইনডেক্স)
+    print(liked_numbers[k-1]) 
