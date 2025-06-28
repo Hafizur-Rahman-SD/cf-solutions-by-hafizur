@@ -5,7 +5,7 @@ while len(liked_numbers) < 1000:
         liked_numbers.append(i)
     i += 1
 
-# টেস্ট কেস নেওয়া
+
 t = int(input())
 for _ in range(t):
     k = int(input())
